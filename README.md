@@ -30,11 +30,11 @@ The templates supports:
 	
 	mage::gch = <?php echo $this->getChildHtml('$VAR'); ?>
 	
-![](http://ss.wearejh.com/yCimlbK7D8.gif)
 	
+![](http://ss.wearejh.com/jWfCGmfiPB.gif)
 
 
 	mage::__ = $this->__('$STRING');	
 	
-![](http://ss.wearejh.com/jWfCGmfiPB.gif)
 	
+![](http://ss.wearejh.com/yCimlbK7D8.gif)
